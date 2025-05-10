@@ -11,6 +11,11 @@ Pre-requisites
 * How to create and run a project in Android Studio.
 * Familiar with Kotlin coroutines
 
+Screenshots
+--------------
+<img src="screenshots/img.png" style="display:inline-block; width:200px;"/>
+<img src="screenshots/img_1.png" style="display:inline-block; width:200px;"/>
+
 
 Getting Started
 ---------------
