@@ -13,8 +13,7 @@ Pre-requisites
 
 Screenshots
 --------------
-<img src="screenshots/img.png" style="display:inline-block; width:200px;"/>
-<img src="screenshots/img_1.png" style="display:inline-block; width:200px;"/>
+<img src="screenshots/img.png" style="display:inline-block; width:300px"/> <img src="screenshots/img_1.png" style="display:inline-block; width:300px;"/>
 
 
 Getting Started
